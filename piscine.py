@@ -20,3 +20,6 @@ while commande != 'exit':
     if commande == 'liste':
         for elt in liste:
             print(f"Prénom {elt[0]}, nage {elt[1]}, longueur {elt[2]}")
+
+
+       #salem     
